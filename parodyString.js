@@ -5,6 +5,4 @@ function parodyString(string) {
   }).join('');
 }
 
-console.log(parodyString("Hello World!"))
-
 module.exports = parodyString
